@@ -1,6 +1,6 @@
 using System;
 
-namespace FurnitureTask
+namespace FurnnitureUI
 {
     public class WeatherForecast
     {
